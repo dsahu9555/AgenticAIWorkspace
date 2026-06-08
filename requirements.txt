@@ -10,3 +10,6 @@ arxiv
 wikipedia
 
 langgraph-cli[inmen]
+langchain-ollama
+faiss-cpu
+langchainhub
